@@ -8,7 +8,7 @@
 :Version: v.1.0
 :Description:
 """
-
+#dddd
 from numpy import  ones, array, log
 
 
